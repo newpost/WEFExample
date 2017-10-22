@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{E6881DA3-6E57-44DC-A938-379A4558FF65}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "impl", "impl", "{4CB413E9-9626-43DA-977C-7841AEAAFD6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oracle", "OracleLogger\Oracle.csproj", "{0960F445-F4EB-4429-910F-DF6B10814909}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9CF2AD86-B636-44DE-8DE1-B78E2EAADFFA} = {9CF2AD86-B636-44DE-8DE1-B78E2EAADFFA}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sql", "SqlLogger\Sql.csproj", "{9481FD3B-CB52-4921-AFE7-EB998EA592CB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9CF2AD86-B636-44DE-8DE1-B78E2EAADFFA} = {9CF2AD86-B636-44DE-8DE1-B78E2EAADFFA}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "ILogger\Interface.csproj", "{9CF2AD86-B636-44DE-8DE1-B78E2EAADFFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6881DA3-6E57-44DC-A938-379A4558FF65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6881DA3-6E57-44DC-A938-379A4558FF65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6881DA3-6E57-44DC-A938-379A4558FF65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6881DA3-6E57-44DC-A938-379A4558FF65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0960F445-F4EB-4429-910F-DF6B10814909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0960F445-F4EB-4429-910F-DF6B10814909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0960F445-F4EB-4429-910F-DF6B10814909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0960F445-F4EB-4429-910F-DF6B10814909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9481FD3B-CB52-4921-AFE7-EB998EA592CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9481FD3B-CB52-4921-AFE7-EB998EA592CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9481FD3B-CB52-4921-AFE7-EB998EA592CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9481FD3B-CB52-4921-AFE7-EB998EA592CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CF2AD86-B636-44DE-8DE1-B78E2EAADFFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF2AD86-B636-44DE-8DE1-B78E2EAADFFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF2AD86-B636-44DE-8DE1-B78E2EAADFFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF2AD86-B636-44DE-8DE1-B78E2EAADFFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0960F445-F4EB-4429-910F-DF6B10814909} = {4CB413E9-9626-43DA-977C-7841AEAAFD6D}
+		{9481FD3B-CB52-4921-AFE7-EB998EA592CB} = {4CB413E9-9626-43DA-977C-7841AEAAFD6D}
+	EndGlobalSection
+EndGlobal

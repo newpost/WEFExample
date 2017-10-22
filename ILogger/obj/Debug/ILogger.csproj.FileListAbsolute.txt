@@ -1,0 +1,5 @@
+E:\testcode\vs2012example\sln1\ILogger\bin\Debug\ILogger.dll
+E:\testcode\vs2012example\sln1\ILogger\bin\Debug\ILogger.pdb
+E:\testcode\vs2012example\sln1\ILogger\obj\Debug\ILogger.csprojResolveAssemblyReference.cache
+E:\testcode\vs2012example\sln1\ILogger\obj\Debug\ILogger.dll
+E:\testcode\vs2012example\sln1\ILogger\obj\Debug\ILogger.pdb

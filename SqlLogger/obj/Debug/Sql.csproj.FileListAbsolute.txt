@@ -1,0 +1,7 @@
+E:\testcode\vs2012example\sln1\SqlLogger\obj\Debug\Sql.csprojResolveAssemblyReference.cache
+E:\testcode\vs2012example\sln1\SqlLogger\bin\Debug\Interface.dll
+E:\testcode\vs2012example\sln1\SqlLogger\bin\Debug\Interface.pdb
+E:\testcode\vs2012example\sln1\SqlLogger\bin\Debug\Sql.dll
+E:\testcode\vs2012example\sln1\SqlLogger\bin\Debug\Sql.pdb
+E:\testcode\vs2012example\sln1\SqlLogger\obj\Debug\Sql.dll
+E:\testcode\vs2012example\sln1\SqlLogger\obj\Debug\Sql.pdb

@@ -1,0 +1,8 @@
+E:\testcode\vs2012example\sln1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\testcode\vs2012example\sln1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\testcode\vs2012example\sln1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\testcode\vs2012example\sln1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\testcode\vs2012example\sln1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\testcode\vs2012example\sln1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\testcode\vs2012example\sln1\ConsoleApplication1\bin\Debug\Interface.dll
+E:\testcode\vs2012example\sln1\ConsoleApplication1\bin\Debug\Interface.pdb

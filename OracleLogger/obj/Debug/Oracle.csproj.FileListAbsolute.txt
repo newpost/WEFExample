@@ -1,0 +1,7 @@
+E:\testcode\vs2012example\sln1\OracleLogger\obj\Debug\Oracle.csprojResolveAssemblyReference.cache
+E:\testcode\vs2012example\sln1\OracleLogger\bin\Debug\Interface.dll
+E:\testcode\vs2012example\sln1\OracleLogger\bin\Debug\Interface.pdb
+E:\testcode\vs2012example\sln1\OracleLogger\bin\Debug\Oracle.dll
+E:\testcode\vs2012example\sln1\OracleLogger\bin\Debug\Oracle.pdb
+E:\testcode\vs2012example\sln1\OracleLogger\obj\Debug\Oracle.dll
+E:\testcode\vs2012example\sln1\OracleLogger\obj\Debug\Oracle.pdb

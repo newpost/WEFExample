@@ -1,0 +1,4 @@
+E:\testcode\vs2012example\sln1\ILogger\bin\Debug\Interface.dll
+E:\testcode\vs2012example\sln1\ILogger\bin\Debug\Interface.pdb
+E:\testcode\vs2012example\sln1\ILogger\obj\Debug\Interface.dll
+E:\testcode\vs2012example\sln1\ILogger\obj\Debug\Interface.pdb
